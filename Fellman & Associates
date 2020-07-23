@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Fellman & Associates</title>
+    
+    <style>
+        .h1 {
+            font-weight:bold;
+        }
+        
+        .h2 {
+            font-weight:bold;
+        } 
+    </style>
+    
+    <body>
+      <h1 class="h1">Fellman & Associates Offcial-Unofficial Website</h1>
+      
+        <h2 class="h2">Welcome</h2>
+      
+            <h3>Welcome to the Fellman & Associates official-unofficial website. We are a workers compensation lawfirm with the sole duty to get the help that you need and win your case with ease. We have lawyers with over <strong>+15 years of experience in helping you get the money <em>YOU</em> deserve.</strong> Call us now!</h3>
+      
+      <h2 class="h2">Why we started F & A</h2>
+      
+            <h3>Teri Fellman, our boss, started F & A out of a passion to stray away from a lawfirm that didn't qualify to handle workers compensation cases. Since then, Teri and her group of lawyers came together to create F & A and have helped people working <strong>since October 2002.</strong></h3>
+      
+      <h2 class="h2"> Why you should trust us with your case</h2>
+      
+      <ul>
+        <li>We have been handling cases for over 15 years</li>
+        <li>We have many lawyers who will try their hardest to get the money you need</li>
+        <li>We are part of the CA bar association and can handle cases from anywhere across CA and will go the literal distances to get you a win</li>
+      </ul>
+      
+      <h2 class="h2">Contact us</h2>
+        <h3>Contact us at: +1(310)396-5220
+        Fax number: +1(310)396-5290</h3>
+        
+        <h1>Fellman & Associates: Commitment. Involvment. Action.</h1>
+    </body>
+  </head>
+</html>
